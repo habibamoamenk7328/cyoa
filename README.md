@@ -1,3 +1,3 @@
 # Create Your Own Adventure
 ---
-## [Start your day!](home/home.md)
+## [Start your day!](home.md)
