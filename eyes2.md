@@ -2,4 +2,4 @@
 ---
 ### You are blind now :(
 
-### [Start over](../home.md)
+### [Start over](home.md)
