@@ -4,7 +4,7 @@
 
   ![Alt Text](phone.jpeg)
   
-  [Photo by] (https://pxhere.com/en/photo/678080)
+  [Photo by](https://pxhere.com/en/photo/678080)
 ---
 ### [Yes!!!](yes.md)
 ### [No...](no.md)
