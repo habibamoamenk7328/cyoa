@@ -4,6 +4,6 @@
 
    ![Alt Text](soap.png)
 ---
-### [Get it off with water ](wash/wash.md)
+### [Get it off with water ](wash.md)
 
-### [Get it off with your towel](towel/towel.md)
+### [Get it off with your towel](towel.md)
